@@ -3,4 +3,3 @@ main: xyz.acrylicstyle.lobby.LobbyPlugin
 version: "1.0"
 depend:
   - TomeitoLib
-  - ServerSelector
